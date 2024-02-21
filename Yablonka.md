@@ -1,4 +1,4 @@
-![изображение](https://github.com/Glibusss/homework-1-spring-2024/assets/28458777/839d4c69-20ae-4179-a611-a6d575d50eeb)# Домашнее задание 1
+# Домашнее задание 1
 
 ## Тестовая среда
 
@@ -16,7 +16,7 @@
 
 ## Логотип
 
-![изображение](https://github.com/Glibusss/homework-1-spring-2024/assets/28458777/9c8e66d3-b67b-4c99-86d2-d6f75fea8874)
+![изображение](https://github.com/Glibusss/homework-1-spring-2024/assets/28458777/65d79f55-ac4c-4567-99d7-d004863a52f2)
 
 ### Положительные кейсы
 
@@ -25,7 +25,7 @@
 
 ## Кнопка "Создать"
 
-![изображение](https://github.com/Glibusss/homework-1-spring-2024/assets/28458777/65d79f55-ac4c-4567-99d7-d004863a52f2)
+![изображение](https://github.com/Glibusss/homework-1-spring-2024/assets/28458777/9c8e66d3-b67b-4c99-86d2-d6f75fea8874)
 
 ### Положительные кейсы
 
