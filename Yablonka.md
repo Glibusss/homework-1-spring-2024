@@ -48,9 +48,9 @@
 ### Положительные кейсы
 
 * Нажата кнопка "Доски"
-    * Результат: перенаправление на [страницу досок](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+    * Результат: перенаправление на [страницу досок](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0-%D0%B4%D0%BE%D1%81%D0%BE%D0%BA)
 * Нажата кнопка "Профиль"
-    * Результат: перенаправление на [страницу изменения данных о профиле](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+    * Результат: перенаправление на [страницу изменения данных о профиле](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D0%BE-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C)
 * Нажата кнопка "Безопасность"
     * Результат: перенаправление на [страницу изменения пароля пользователя](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
 * Нажата кнопка "Выход"
@@ -70,11 +70,11 @@
 ![изображение](https://github.com/Glibusss/homework-1-spring-2024/assets/28458777/979b2735-aa6e-40bc-9143-bd0d88a5e8eb)
  
 * Нажат текст "Создать новое рабочее пространство"
-    * Результат: открывается [окно создания рабочего пространства](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+    * Результат: открывается [окно создания рабочего пространства](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BE%D0%BA%D0%BD%D0%BE-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0)
 * Нажата вкладка "Гостевые пространства"
-    * Результат: переход на [вкладку "Гостевые пространства"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+    * Результат: переход на [вкладку "Гостевые пространства"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0)
 * Наличие одного или более созданных рабочих пространств
-    * Результат: отображение списка созданных рабочих пространств. Справа от названия отображается [кнопка "Действие"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C), под названием [кнопка "Создать доску"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
+    * Результат: отображение списка созданных рабочих пространств. Справа от названия отображается [кнопка "Действие"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0-%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5-%D0%B4%D0%BB%D1%8F-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85-%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D1%85-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2), под названием [кнопка "Создать доску"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D0%BA%D1%83)
 
 ![изображение](https://github.com/Glibusss/homework-1-spring-2024/assets/28458777/d6e9bde2-eabe-43ab-b548-89cc841ff4b2)
 
@@ -92,13 +92,13 @@
     * Результат: меню скрывается
 * Нажата [кнопка "Создать доску"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D0%BA%D1%83) при активном меню действий
     * Результат: меню скрывается, открывается [окно создания доски](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BE%D0%BA%D0%BD%D0%BE-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BE%D1%81%D0%BA%D0%B8)
-* **Баг** Нажата [вкладка "Гостевые пространства"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B8%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8F-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F-%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C) при активном меню действий
+* **Баг** Нажата [вкладка "Гостевые пространства"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0) при активном меню действий
     * Результат: **меню остаётся активным**, вкладка меняется
     * Ожидаемый: меню скрывается, вкладка меняется
-* Нажата [кнопка "Создайте рабочее пространство"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D0%BA%D1%83) при активном меню действий
-    * Результат: меню скрывается, открывается [окно создания рабочего пространства](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BE%D0%BA%D0%BD%D0%BE-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BE%D1%81%D0%BA%D0%B8)
+* Нажата [кнопка "Создайте рабочее пространство"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B9%D1%82%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B5-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0) при активном меню действий
+    * Результат: меню скрывается, открывается [окно создания рабочего пространства](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BE%D0%BA%D0%BD%D0%BE-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0)
 * Нажат аватар/плейсхолдер пользователя при активном меню действий
-    * Результат: меню скрывается, появляется [меню пользователя](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BE%D0%BA%D0%BD%D0%BE-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BE%D1%81%D0%BA%D0%B8)
+    * Результат: меню скрывается, появляется [меню пользователя](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BC%D0%B5%D0%BD%D1%8E-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F)
 
 ## Меню действий для рабочего пространства
 
@@ -116,7 +116,7 @@
 ### Положительные кейсы
 
 * Нажата кнопка
-   * Результат: открывается [окно создания доски](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D0%BA%D1%83)
+   * Результат: открывается [окно создания доски](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BE%D0%BA%D0%BD%D0%BE-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D0%B4%D0%BE%D1%81%D0%BA%D0%B8)
 
 ## Окно создания доски
 
@@ -164,8 +164,8 @@
 
 ![изображение](https://github.com/Glibusss/homework-1-spring-2024/assets/28458777/d319b23d-9497-42c8-8310-e625711a3c22)
 
-* Нажата [вкладка "Ваши пространства"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D0%BA%D1%83)
-    * Результат: переход на вкладку "Ваши пространства"
+* Нажата вкладка "Ваши пространства"
+    * Результат: переход на [вкладку "Ваши пространства"](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4%D0%BA%D0%B0-%D0%B2%D0%B0%D1%88%D0%B8-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0)
 
 ## Список "Рабочие пространства"
 
@@ -185,15 +185,13 @@
 ### Положительные кейсы
 
 * Нажата кнопка
-    * Результат: открывается [окно создания рабочего пространства](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%B4%D0%BE%D1%81%D0%BA%D1%83)
+    * Результат: открывается [окно создания рабочего пространства](https://github.com/Glibusss/homework-1-spring-2024/blob/Nikita_part1/Yablonka.md#%D0%BE%D0%BA%D0%BD%D0%BE-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%87%D0%B5%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B0)
 
 # Окно создания рабочего пространства
 
 ![изображение](https://github.com/Glibusss/homework-1-spring-2024/assets/28458777/06bb4ec5-6cfd-4292-b598-e0b7a1e491f7)
 
 Требования к названию рабочего пространства: `Название рабочего пространства может содержать лишь буквы кириллицы и латиницы, цифры, спецсимволы $@!?#^:;%'"\*_ и быть не пустым`
-``  &|`<>/()+=.,~№{}[] ``
-``  $@!?#^:;%'"\*_ ``
 
 ### Положительные кейсы
 
@@ -332,14 +330,14 @@
 
 ![изображение](https://github.com/Glibusss/homework-1-spring-2024/assets/28458777/d257ad83-6e5f-4576-a2bf-11d56568b42c)
 
-## Положительные кейсы
+### Положительные кейсы
 
 * Выбран пункт "Изменить аватар"
     * Результат: отображается окно изменения аватара
 * Выбран пункт "Удалить аватар" при наличии загруженного аватара
     * Результат: аватар удалён (заменён на плейсхолдер)
 
-## Негативные кейсы
+### Негативные кейсы
 
 * Выбран пункт "Удалить аватар" при отсутствии загруженного аватара (плейсхолдер)
     * Результат: пункт нажимается, ничего не происходит
